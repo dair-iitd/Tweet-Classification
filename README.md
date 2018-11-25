@@ -4,6 +4,8 @@ Binary tweet classification using tweet encodings.
 
 Instructions:
 
+Install python requirements using command pip install -r libraries.txt
+
 Download http://nlp.stanford.edu/data/wordvecs/glove.twitter.27B.zip and move the file glove.twitter.27B.100d.txt to src directory.
 
 Train file format: data.train,data.test
