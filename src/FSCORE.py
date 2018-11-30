@@ -4,7 +4,7 @@ from tweepy import OAuthHandler
 from textblob import TextBlob 
 import sys
 
-Comments
+#Comments
 #add random fraction of non relevant sentences with negative sentiment
 #hyperparameter search
 #fine tune pretrained model for tweet encoding
