@@ -2,7 +2,6 @@ absl-py==0.4.1
 astor==0.7.1
 backcall==0.1.0
 bleach==2.1.4
-certifi==2018.8.24
 cffi==1.11.5
 chardet==3.0.4
 colorama==0.3.9
@@ -26,7 +25,7 @@ jupyter-client==5.2.3
 jupyter-console==5.2.0
 jupyter-core==4.4.0
 kiwisolver==1.0.1
-Lasagne==0.2.dev1
+Lasagne
 Markdown==2.6.11
 MarkupSafe==1.0
 matplotlib==2.2.3
@@ -53,7 +52,6 @@ pyparsing==2.2.0
 PySocks==1.6.8
 python-dateutil==2.7.3
 pytz==2018.5
-pywinpty==0.5.4
 pyzmq==17.1.2
 qtconsole==4.4.1
 requests==2.20.0
@@ -64,17 +62,17 @@ simplegeneric==0.8.1
 six==1.11.0
 SQLAlchemy==1.2.12
 tensorboard==1.10.0
-tensorflow==1.10.0
+tensorflow
 termcolor==1.1.0
 terminado==0.8.1
 testpath==0.3.1
 textblob==0.15.1
 Theano==1.0.3
-torch==0.4.1
+torch
 tornado==5.1
 traitlets==4.3.2
-tweepy==3.6.0
-twython==3.7.0
+tweepy
+twython
 urllib3==1.24
 wcwidth==0.1.7
 webencodings==0.5.1
